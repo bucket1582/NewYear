@@ -10,7 +10,7 @@ Requirements
 
 Note About the Song
 -------------------
-* [Joy To The World](https://www.karaoke-version.com/free/christmas-carol/joy-to-the-world.html) JoyToTheWorld.mp3 was downloaded from here.
+* [JoyToTheWorld.mp3](https://www.karaoke-version.com/free/christmas-carol/joy-to-the-world.html) was downloaded from here.
 
 How to RUN program
 -------------------

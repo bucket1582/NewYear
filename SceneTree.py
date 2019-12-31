@@ -539,7 +539,7 @@ def end(x, y):
     global brush, screen
     brush.clear()
     screen.bye()
-    print("시청 해 주셔서 감사합니다.")
+    print("Thanks For Watching!")
     sleep(3)
     quit()
     
